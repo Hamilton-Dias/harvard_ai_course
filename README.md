@@ -1,0 +1,1 @@
+projects made for the online Harvard Course: Introduction to Artificial Intelligence with Python at https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/
